@@ -1,0 +1,10 @@
+.offer-heading::after{
+    content: '';
+    width:105%;
+    height: 4px;
+    position: absolute;
+    top:152%;
+    left:0;
+    border-radius:10px;
+    background-color: rgb(95, 95, 243);
+}

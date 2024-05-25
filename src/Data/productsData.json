@@ -1,0 +1,797 @@
+{
+    "Categories": [
+      {
+        "CategoryName": "Groceries",
+        "Products": [
+          {
+            "ProductName": "Dals and Pulses",
+            "SubProducts": [
+              "Toor Dal",
+              "Urad Dal",
+              "Moong Dal",
+              "Chana Dal",
+              "Others"
+            ]
+          },
+          {
+            "ProductName": "Ghee & Oils",
+            "SubProducts": [
+              "Blended Oil",
+              "Ghee",
+              "Sunflower Oil",
+              "Rice Bran",
+              "Olive Oil",
+              "Groundnut Oil",
+              "Mustard Oil",
+              "Others"
+            ]
+          },
+          {
+            "ProductName": "Atta & Flours",
+            "SubProducts": [
+              "Wheat Atta",
+              "Rava & Sooji",
+              "Rice Flour",
+              "Maida",
+              "Besan",
+              "Others"
+            ]
+          },
+          {
+            "ProductName": "Masala & Spices",
+            "SubProducts": [
+              "Whole Spices",
+              "powdered Spices",
+              "Salt",
+              "Ready Masalas",
+              "Cooking Pastes & Purees",
+              "Herbs & Seasonings"
+            ]
+          },
+          {
+            "ProductName": "Rice & Rice Products",
+            "SubProducts": [
+              "Basmati Rice",
+              "Sona Masoori Rice",
+              "Poha",
+              "Puffed Rice",
+              "Others"
+            ]
+          },
+          {
+            "ProductName": "Dry Fruits, Nuts & Seeds",
+            "SubProducts": [
+              "Cashew Nuts",
+              "Almonds",
+              "Date & Raisins",
+              "Dried Fruits",
+              "Others"
+            ]
+          }
+          
+        ]
+      },
+      {
+        "CategoryName": "Fashion",
+        "Products": [
+          {
+            "ProductName": "Men's Top Wear",
+            "SubProducts": [
+              "Men's T-shirts",
+              "Men's Casual Shirts",
+              "Men's Formal Shirts",
+              "Men's Kurta",
+              "Men's Ethnic Sets",
+              "Men's Blazers",
+              "Men's Raincoat",
+              "Men's Suit"
+            ]
+          },
+          {
+            "ProductName": "Men's bottom Wear",
+            "SubProducts": [
+              "Men's Jeans",
+              "Men's Trousers",
+              "Men's Trackpants",
+              "Men's Shorts",
+              "Men's Cargos",
+              "Men's ThreeFourths",
+              "Men's Pyjamas",
+              "Men's Dhoti"
+            ]
+          },
+          {
+            "ProductName": "Women Ethnic",
+            "SubProducts": [
+              "Women Sarees",
+              "Women Kurtas & Kurtis",
+              "Women Kurta Sets & Salvar Suits",
+              "Women Gowns",
+              "Women Lehenga Cholis",
+              "Women Leggings & Patialas",
+              "Women Plazzos & Shararas",
+              "Women Blouse",
+              "Women Dupatta"
+              
+            ]
+          },
+          {
+            "ProductName": "Men Footwear",
+            "SubProducts": [
+              "Men's Sports Shoes",
+              "Men's Casual Shoes",
+              "Men's Sandals & Floaters",
+              "Men's Slippers & Flip Flops",
+              "Men's Formal Shoes",
+              "Men's Ethnic Shoes",
+              "Shoe Care"
+            ]
+          },
+          {
+            "ProductName": "Women Footwear",
+            "SubProducts": [
+              "Women Flats",
+              "Women Heels",
+              "Women Wedges",
+              "Women Slipper Flip Flops",
+              "Women Casual Shoes",
+              "Women Sport Shoes",
+              "Women Ethenic Shoes",
+              "Women Boots"
+            ]
+          },
+          {
+            "ProductName": "Watches and Accessories",
+            "SubProducts": [
+              "Men & Women Watches",
+              "Men & Women Sunglasses",
+              "Wallets",
+              "Men & Women Belts",
+              "Men Fashion Jewellery",
+              "Kids Accessories"
+            ]
+          },
+          {
+            "ProductName": "Women Western",
+            "SubProducts": [
+              "Women Tops",
+              "Women Dresses",
+              "Women T-shirts & Polo T-shirts",
+              "Women Jeans",
+              "Women Nighties & Night Dresses",
+              "Women Nightsuit",
+              "Women Track Pants",
+              "Women Trouser",
+              "Women Jumpsuit",
+              "Women Sports Bra"
+            ]
+          },
+          {
+            "ProductName": "Bags, Suitcases & Luggage",
+            "SubProducts": [
+              "Bags & Backpacks",
+              "Suitcases & Trolleys",
+              "Dufflebags",
+              "RuckSacks",
+              "Handbags",
+              "Slingbags"
+            ]
+          },
+          {
+            "ProductName": "Kids",
+            "SubProducts": [
+              "Girls Dresses",
+              "Boys & Girls T-shirts",
+              "Boys Ethenic Wears",
+              "Girls Ethenic Wears",
+              "Boys & Girls Jeans",
+              "Boys & Girls Shorts"
+            ]
+          },
+          {
+            "ProductName": "Essentials",
+            "SubProducts": [
+              "Men's Vests",
+              "Men's Boxers",
+              "Women's Jackets",
+              "Men's Jackets"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Electonics",
+        "Products": [
+          {
+            "ProductName": "Audio",
+            "SubProducts": [
+              "Bluetooth Headphones",
+              "Wired Headphones",
+              "Wireless Earbuds",
+              "Bluetooth Speakers",
+              "Soundbars",
+              "Home Theatres",
+              "Remote Control"
+            ]
+          },
+          {
+            "ProductName": "Cameras & Accessories",
+            "SubProducts": [
+              "DSLR & Mirrorless",
+              "Sports & Action",
+              "Point & Shoot",
+              "Instant Cameras",
+              "Camcorders",
+              "Motion Camera",
+              "Drone",
+              "Camera tripods"
+            ]
+          },
+          {
+            "ProductName": "Computer Peripherals",
+            "SubProducts": [
+              "Mouse",
+              "Printers",
+              "Monitors",
+              "Projectors",
+              "Ink Bottles",
+              "Lamination Machines",
+              "Barcoder Scanner"
+            ]
+          },
+          {
+            "ProductName": "Kitchen Item",
+            "SubProducts": [
+              "Electric Kettle",
+              "Microwave Oven",
+              "Blender",
+              "Toaster",
+              "Cofee Maker",
+              "Induction",
+              "Mixer grinder"
+            ]
+          },
+          {
+            "ProductName": "Health & Personal Care",
+            "SubProducts": [
+              "Trimmers",
+              "Shavers",
+              "Hair Straighteners",
+              "Hair Dryers",
+              "Blood Pressure Monitors",
+              "Nebulizers",
+              "Weighting Scales"
+            ]
+          },
+          {
+            "ProductName": "Laptop & Desktop",
+            "SubProducts": [
+              "Laptops",
+              "Gaming Laptops",
+              "Desktop PC",
+              "PC finder"
+            ]
+          },
+          {
+            "ProductName": "Mobile",
+            "SubProducts": [
+              "Redmi Mobiles",
+              "Realme Mobiles",
+              "Apple Phone",
+              "Nokia Mobiles",
+              "Oppo Mobiles",
+              "Pixel Series",
+              "OnePlus Mobiles"
+            ]
+          },
+          {
+            "ProductName": "Powerbank",
+            "SubProducts": [
+              "Samsung Powerbank",
+              "Apple Powerbank"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Home & Furniture",
+        "Products": [
+          {
+            "ProductName": "Sofa",
+            "SubProducts": [
+              "Cushion",
+              "Slipcover",
+              "Throw Blanket",
+              "Leg Risers",
+              "Armrest Covers"
+            ]
+          },
+          {
+            "ProductName": "Dining Table",
+            "SubProducts": [
+              "Tablecloth",
+              "Placemats",
+              "Dining Chairs",
+              "Chair Cushions",
+              "Table Runner"
+            ]
+          },
+          {
+            "ProductName": "Bed",
+            "SubProducts": [
+              "Mattress",
+              "Pillows",
+              "Bedsheets",
+              "Comforter",
+              "Bed Frame"
+            ]
+          },
+          {
+            "ProductName": "Wardrobe",
+            "SubProducts": [
+              "Hangers",
+              "Drawer Organizers",
+              "Wardrobe Lights",
+              "Shoe Rack",
+              "Storage Boxes"
+            ]
+          },
+          {
+            "ProductName": "Bookshelf",
+            "SubProducts": [
+              "Bookends",
+              "Shelf Liners",
+              "Storage Baskets",
+              "Decorative Items",
+              "Shelf Dividers"
+            ]
+          },
+          {
+            "ProductName": "Coffee Table",
+            "SubProducts": [
+              "Coasters",
+              "Table Runner",
+              "Decorative Tray",
+              "Magazines",
+              "Table Lamp"
+            ]
+          },
+          {
+            "ProductName": "Curtains",
+            "SubProducts": [
+              "Curtain Rods",
+              "Tiebacks",
+              "Hooks",
+              "Valances",
+              "Sheers"
+            ]
+          },
+          {
+            "ProductName": "Desk",
+            "SubProducts": [
+              "Desk Organizer",
+              "Desk Lamp",
+              "Monitor Stand",
+              "Mouse Pad",
+              "Cable Management"
+            ]
+          },
+          {
+            "ProductName": "Chair",
+            "SubProducts": [
+              "Seat Cushion",
+              "Chair Mat",
+              "Lumbar Support",
+              "Chair Cover",
+              "Armrest Pads"
+            ]
+          },
+          {
+            "ProductName": "Dresser",
+            "SubProducts": [
+              "Drawer Liners",
+              "Jewelry Organizer",
+              "Vanity Mirror",
+              "Decorative Tray",
+              "Drawer Dividers"
+            ]
+          }
+        ]
+      },
+      {
+        "CategoryName": "Beauty",
+        "Products": [
+          {
+            "ProductName": "Lipstick",
+            "SubProducts": [
+              "Matte Lipstick",
+              "Glossy Lipstick",
+              "Liquid Lipstick",
+              "Lip Balm",
+              "Lip Stain",
+              "Tinted Lip Oil",
+              "Lip Plumper"
+            ]
+          },
+          {
+            "ProductName": "Foundation",
+            "SubProducts": [
+              "Liquid Foundation",
+              "Powder Foundation",
+              "Cream Foundation",
+              "Stick Foundation",
+              "Mineral Foundation",
+              "BB Cream",
+              "CC Cream",
+              "Tinted Moisturizer"
+            ]
+          },
+          {
+            "ProductName": "Mascara",
+            "SubProducts": [
+              "Lengthening Mascara",
+              "Volumizing Mascara",
+              "Waterproof Mascara",
+              "Curling Mascara",
+              "Fiber Mascara",
+              "Tube Mascara",
+              "Colored Mascara",
+              "Clear Mascara"
+            ]
+          },
+          {
+            "ProductName": "Eyeshadow Palette",
+            "SubProducts": [
+              "Neutral Palette",
+              "Smoky Palette",
+              "Colorful Palette",
+              "Matte Palette",
+              "Shimmer Palette",
+              "Glitter Palette",
+              "Metallic Palette",
+              "Palette with Brushes"
+            ]
+          },
+          {
+            "ProductName": "Blush",
+            "SubProducts": [
+              "Powder Blush",
+              "Cream Blush",
+              "Gel Blush",
+              "Liquid Blush",
+              "Stick Blush",
+              "Mineral Blush",
+              "Shimmer Blush",
+              "Matte Blush"
+            ]
+          },
+          {
+            "ProductName": "Skincare Set",
+            "SubProducts": [
+              "Cleansing Balm",
+              "Foaming Cleanser",
+              "Exfoliating Scrub",
+              "Toner",
+              "Serum",
+              "Moisturizer",
+              "Sheet Masks",
+              "Eye Cream"
+            ]
+          },
+          {
+            "ProductName": "Hair Care Kit",
+            "SubProducts": [
+              "Shampoo",
+              "Conditioner",
+              "Hair Mask",
+              "Leave-in Conditioner",
+              "Hair Oil",
+              "Hair Serum",
+              "Dry Shampoo",
+              "Hair Styling Cream"
+            ]
+          },
+          {
+            "ProductName": "Nail Polish",
+            "SubProducts": [
+              "Base Coat",
+              "Top Coat",
+              "Nail Strengthener",
+              "Cuticle Oil",
+              "Matte Top Coat",
+              "Quick Dry Drops",
+              "Nail Polish Remover",
+              "Nail Growth Serum"
+            ]
+          },
+          {
+            "ProductName": "Perfume",
+            "SubProducts": [
+              "Eau de Parfum",
+              "Eau de Toilette",
+              "Perfume Oil",
+              "Rollerball",
+              "Body Mist",
+              "Solid Perfume",
+              "Perfume Lotion",
+              "Perfume Gift Set"
+            ]
+          },
+          {
+            "ProductName": "Makeup Brushes Set",
+            "SubProducts": [
+              "Foundation Brush",
+              "Concealer Brush",
+              "Powder Brush",
+              "Blush Brush",
+              "Eyeshadow Brush",
+              "Eyeliner Brush",
+              "Brow Brush",
+              "Lip Brush"
+            ]
+          }
+        ]
+      },      
+      {
+        "CategoryName": "Stationery",
+        "Products": [
+          {
+            "ProductName": "Notebooks",
+            "SubProducts": [
+              "Plain Notebook",
+              "Ruled Notebook",
+              "Dot Grid Notebook",
+              "Grid Notebook",
+              "Sketchbook",
+              "Journal",
+              "Planner"
+            ]
+          },
+          {
+            "ProductName": "Pens",
+            "SubProducts": [
+              "Ballpoint Pen",
+              "Gel Pen",
+              "Fountain Pen",
+              "Rollerball Pen",
+              "Highlighter",
+              "Felt-tip Pen",
+              "Calligraphy Pen"
+            ]
+          },
+          {
+            "ProductName": "Pencils",
+            "SubProducts": [
+              "Wooden Pencils",
+              "Mechanical Pencils",
+              "Colored Pencils",
+              "Graphite Pencils",
+              "Charcoal Pencils",
+              "Watercolor Pencils",
+              "Pastel Pencils"
+            ]
+          },
+          {
+            "ProductName": "Markers",
+            "SubProducts": [
+              "Permanent Markers",
+              "Dry Erase Markers",
+              "Highlighters",
+              "Paint Markers",
+              "Chalk Markers",
+              "Fabric Markers",
+              "Brush Markers"
+            ]
+          },
+          {
+            "ProductName": "Sticky Notes",
+            "SubProducts": [
+              "Standard Sticky Notes",
+              "Page Markers",
+              "Pop-up Notes",
+              "Index Cards",
+              "Sticky Tabs",
+              "Sticky Flags",
+              "Decorative Sticky Notes"
+            ]
+          },
+          {
+            "ProductName": "Binders",
+            "SubProducts": [
+              "Ring Binders",
+              "Clear View Binders",
+              "D-Ring Binders",
+              "Presentation Binders",
+              "Portfolio Binders",
+              "Zipper Binders",
+              "Lever Arch Files"
+            ]
+          },
+          {
+            "ProductName": "Desk Organizers",
+            "SubProducts": [
+              "Pen Holders",
+              "Desk Trays",
+              "File Organizers",
+              "Drawer Organizers",
+              "Desk Mats",
+              "Letter Trays",
+              "Desktop Shelves"
+            ]
+          },
+          {
+            "ProductName": "Scissors",
+            "SubProducts": [
+              "Standard Scissors",
+              "Craft Scissors",
+              "Safety Scissors",
+              "Kitchen Scissors",
+              "Student Scissors",
+              "Embroidery Scissors",
+              "Left-handed Scissors"
+            ]
+          },
+          {
+            "ProductName": "Staplers",
+            "SubProducts": [
+              "Desktop Staplers",
+              "Mini Staplers",
+              "Electric Staplers",
+              "Heavy Duty Staplers",
+              "Staple Removers",
+              "Staple Refills",
+              "Booklet Staplers"
+            ]
+          },
+          {
+            "ProductName": "Erasers",
+            "SubProducts": [
+              "Pencil Erasers",
+              "Kneaded Erasers",
+              "Vinyl Erasers",
+              "Art Gum Erasers",
+              "Electric Erasers",
+              "Eraser Sticks",
+              "Eraser Caps"
+            ]
+          }
+        ]
+      },      
+      {
+        "CategoryName": "Books",
+        "Products": [
+          {
+            "ProductName": "Fiction",
+            "SubProducts": [
+              "Literary Fiction",
+              "Science Fiction",
+              "Fantasy",
+              "Mystery",
+              "Thriller",
+              "Romance",
+              "Historical Fiction",
+              "Young Adult Fiction"
+            ]
+          },
+          {
+            "ProductName": "Non-Fiction",
+            "SubProducts": [
+              "Biography",
+              "Autobiography",
+              "Self-Help",
+              "History",
+              "Politics",
+              "Science",
+              "Memoir",
+              "Business"
+            ]
+          },
+          {
+            "ProductName": "Poetry",
+            "SubProducts": [
+              "Epic Poetry",
+              "Lyric Poetry",
+              "Narrative Poetry",
+              "Sonnet",
+              "Haiku",
+              "Free Verse",
+              "Concrete Poetry",
+              "Limerick"
+            ]
+          },
+          {
+            "ProductName": "Children's Books",
+            "SubProducts": [
+              "Picture Books",
+              "Early Readers",
+              "Chapter Books",
+              "Middle Grade",
+              "Young Adult",
+              "Interactive Books",
+              "Educational Books",
+              "Activity Books"
+            ]
+          },
+          {
+            "ProductName": "Art & Photography Books",
+            "SubProducts": [
+              "Art History",
+              "Photography Techniques",
+              "Coffee Table Books",
+              "Sketchbooks",
+              "Architecture",
+              "Fashion",
+              "Graphic Design",
+              "Illustration"
+            ]
+          },
+          {
+            "ProductName": "Travel Books",
+            "SubProducts": [
+              "Travel Guides",
+              "Memoirs of Travelers",
+              "Photographic Travel Books",
+              "Adventure Travel",
+              "Cultural Travel",
+              "Food & Drink Travel",
+              "Historical Travel",
+              "Road Trip Guides"
+            ]
+          },
+          {
+            "ProductName": "Cookbooks",
+            "SubProducts": [
+              "Vegetarian & Vegan",
+              "Baking",
+              "Healthy Cooking",
+              "Quick & Easy",
+              "International Cuisine",
+              "Celebrity Chefs",
+              "Desserts",
+              "Cocktail & Drinks"
+            ]
+          },
+          {
+            "ProductName": "Science Fiction & Fantasy",
+            "SubProducts": [
+              "Space Opera",
+              "Cyberpunk",
+              "Dystopian Fiction",
+              "Epic Fantasy",
+              "Urban Fantasy",
+              "Steampunk",
+              "Paranormal Fiction",
+              "Hard Science Fiction"
+            ]
+          },
+          {
+            "ProductName": "History Books",
+            "SubProducts": [
+              "Ancient History",
+              "Medieval History",
+              "Modern History",
+              "Military History",
+              "Biographies",
+              "World History",
+              "History of Science",
+              "Cultural History"
+            ]
+          },
+          {
+            "ProductName": "Science & Nature Books",
+            "SubProducts": [
+              "Physics",
+              "Biology",
+              "Chemistry",
+              "Astronomy",
+              "Environmental Science",
+              "Ecology",
+              "Botany",
+              "Geology"
+            ]
+          }
+        ]
+      }      
+    ]
+  }
+  

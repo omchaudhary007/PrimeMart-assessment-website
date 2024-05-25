@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "productName": "Smartphones",
+      "subProducts": [
+        {
+          "subProductName": "realme P1 Pro 5G",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/4/y/b/-original-imahyzygycuyg3mq.jpeg?q=70",
+          "price": "19,999",
+          "oldPrice": "24,999",
+          "offPercentage": 20
+        },
+        {
+          "subProductName": "realme 12x 5G",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/i/w/-original-imagzk4mfg6zf2fv.jpeg?q=70",
+          "price": "13,499",
+          "oldPrice": "17,999",
+          "offPercentage": 25
+        },
+        {
+          "subProductName": "POCO M6 Pro 5G",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/h/q/m6-pro-5g-mzb0eprin-poco-original-imags3e7vewsafst.jpeg?q=70",
+          "price": "9,499",
+          "oldPrice": "15,999",
+          "offPercentage": 40
+        },
+        {
+          "subProductName": "Apple iPhone 14 Plus",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/l/v/8/-original-imaghx9qudmydgc4.jpeg?q=70",
+          "price": "58,999",
+          "oldPrice": "79,900",
+          "offPercentage": 26
+        }
+      ]
+    },
+    {
+      "productName": "Men's Wear",
+      "subProducts": [
+        {
+          "subProductName": "Solid Collar Shirt",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/r/g/1/s-frml-st2-vebnor-original-imagqww4acg7jnvy.jpeg?q=70",
+          "price": "299",
+          "oldPrice": "999",
+          "offPercentage": 70
+        },
+        {
+          "subProductName": "Cotton Blend T-Shirt",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/s/c/p/m-db1024-15-3bros-original-imagz8zjfxthf7kn.jpeg?q=70",
+          "price": "329",
+          "oldPrice": "999",
+          "offPercentage": 67
+        },
+        {
+          "subProductName": "Men's Regular Fit Shirt",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/b/4/l/l-frml-st2-vebnor-original-imagqwy4whxwz2dg.jpeg?q=70",
+          "price": "299",
+          "oldPrice": "999",
+          "offPercentage": 70
+        },
+        {
+          "subProductName": "Men's Fit Shirt",
+          "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shirt/c/o/0/m-epb1-eviqe-original-imahyq4pyx5zqtw4.jpeg?q=70",
+          "price": "309",
+          "oldPrice": "1,999",
+          "offPercentage": 84
+        }
+      ]
+    },
+    {
+      "productName": "TV",
+      "subProducts": [
+        {
+          "subProductName": "Samsung Crystal 4K",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/1/z/i/-original-imagyk8ttgzxvs2s.jpeg?q=70",
+          "price": "28,490",
+          "oldPrice": "54,900",
+          "offPercentage": 48
+        },
+        {
+          "subProductName": "Sony Bravia LED",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/9/c/v/-original-imagvgcgp2hgxs6n.jpeg?q=70",
+          "price": "40,990",
+          "oldPrice": "59,900",
+          "offPercentage": 31
+        },
+        {
+          "subProductName": "Sony Bravia 80cm HD",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/6/s/w/-original-imagvgcksvn7pyfp.jpeg?q=70",
+          "price": "24,999",
+          "oldPrice": "34,900",
+          "offPercentage": 28
+        },
+        {
+          "subProductName": "LG 80cm Smart WebOS TV",
+          "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/television/0/j/5/-original-imagzmeyjuvxbuqe.jpeg?q=70",
+          "price": "15,490",
+          "oldPrice": "24,990",
+          "offPercentage": 38
+        }
+      ]
+    }
+  ]
+}

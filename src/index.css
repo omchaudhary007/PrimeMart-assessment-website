@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Utility CSS */
+
+:root{
+    --blue:#008ecc;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.hide-scrollbar {
+    -ms-overflow-style: none; 
+    scrollbar-width: none; 
+}
+
+.section{
+    @apply min-w-full px-20 py-4;
+}
+
+.blue-color{
+    @apply text-[var(--blue)];
+}
+.transition-300{
+    @apply transition-all duration-300;
+}
